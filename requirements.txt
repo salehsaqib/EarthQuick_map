@@ -2,4 +2,4 @@ plotly
 pathlib
 jsonschema
 jsonschema-specifications
-plotly.express
+plotly
